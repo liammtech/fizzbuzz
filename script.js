@@ -1,5 +1,7 @@
 for (i = 0; i < 100; i++) {
-    count = 0;
+    count = 1;
+
 
     console.log(count);
+    count++;
 }
